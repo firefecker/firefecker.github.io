@@ -14,7 +14,7 @@ owner:
   instagram:      ctrunsthis
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "成都, 中国"
   # Plug in your disqus shortname!
 
 tools:
@@ -23,7 +23,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           china
 
 # Links to include in top navigation
 # For external links add external: true
